@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+}
+.menu {
+    width: 500px;
+    color: white;   
+    margin: 0 auto;
+    text-align: center;
+    border-bottom: 2px solid white;
+}
+.menu-item{
+    display: inline-block;
+    margin: 20px;
+}
+.tartalom{
+ color: white;
+ margin: 0 auto;
+    background-color: #3d4044;
+    width: 60%;
+    padding: 10px;
+    margin-top: 10px;
+}
+.kepek{
+     text-align: center;
+    padding: 15px;
+}
+.kepek img {
+    width: 380px;
+    height: 400px;
+    
+    
+}
+footer{
+   text-align: center;
+    margin: 0 auto;
+    padding: 40px 40px;
+    background-color: #212223;
+    font-weight: bold;
+    font-size: 15px;
+    color: white;
+    margin-bottom: 20px;
+}
